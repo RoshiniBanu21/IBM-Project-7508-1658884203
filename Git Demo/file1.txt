@@ -1,3 +1,0 @@
-Welcome to my git page!
-I am just learning git.
-sample file
